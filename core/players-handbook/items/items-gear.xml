@@ -5,7 +5,7 @@
 		<description></description>
 		<author url="https://marketplace.dndbeyond.com/core-rules/3709000">Wizards of the Coast</author>
 		<update version="0.0.1">
-			<file name="items-gear.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/main/core/players-handbook/items/items-gear.xml" />
+			<file name="items-gear.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/refs/heads/main/core/players-handbook/items/items-gear.xml" />
 		</update>
 	</info>
 <!-- Commented elements aren't in the new PHB -->

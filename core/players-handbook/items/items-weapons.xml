@@ -3,7 +3,7 @@
 	<info>
 		<name>Weapons</name>
 		<update version="0.0.1">
-			<file name="items-weapons.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/main/core/players-handbook/items/items-weapons.xml" />
+			<file name="items-weapons.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/refs/heads/main/core/players-handbook/items/items-weapons.xml" />
 		</update>
 	</info>
 	

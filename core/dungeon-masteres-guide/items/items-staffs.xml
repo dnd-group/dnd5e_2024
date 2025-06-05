@@ -5,7 +5,7 @@
 		<description>Magical Staffs from the Dungeon Master’s Guide 2024</description>
 		<author url="https://marketplace.dndbeyond.com/core-rules/3710000?pid=DB3710000">Wizards of the Coast</author>
 		<update version="0.0.1">
-			<file name="items-staffs.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/main/core/dungeon-masters-guide/items/items-staffs.xml" />
+			<file name="items-staffs.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/refs/heads/main/core/dungeon-masters-guide/items/items-staffs.xml" />
 		</update>
 	</info>
 	<element name="Quarterstaff of the Acrobat" type="Magic Item" source="Dungeon Master’s Guide 2024" id="ID_WOTC_DMG24_MAGIC_ITEM_QUARTERSTAFF_OF_THE_ACROBAT">

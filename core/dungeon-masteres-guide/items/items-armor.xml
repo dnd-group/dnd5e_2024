@@ -5,7 +5,7 @@
 		<description>Magical Armors from the Dungeon Master’s Guide 2024</description>
 		<author url="https://marketplace.dndbeyond.com/core-rules/3710000">Wizards of the Coast</author>
 		<update version="0.0.1">
-			<file name="items-armor.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/main/core/dungeon-masters-guide/items/items-armor.xml" />
+			<file name="items-armor.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/refs/heads/main/core/dungeon-masters-guide/items/items-armor.xml" />
 		</update>
 	</info>
 

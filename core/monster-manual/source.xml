@@ -4,7 +4,7 @@
         <name>Monster Manual 2024</name>
         <author url="https://marketplace.dndbeyond.com/core-rules/3711000">Wizards of the Coast</author>
         <update version="0.0.1">
-            <file name="source.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/main/core/monster-manual/source.xml" />
+            <file name="source.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/refs/heads/main/core/monster-manual/source.xml" />
         </update>
     </info>
     <element name="Monster Manual 2024" type="Source" source="Core" id="ID_WOTC_SOURCE_MONSTER_MANUAL_2024">
