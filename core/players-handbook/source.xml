@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Player's Handbook 2024</name>
+        <author url="https://marketplace.dndbeyond.com/core-rules/3709000">Wizards of the Coast</author>
+        <update version="0.0.1">
+            <file name="source.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/master/core/players-handbook/source.xml" />
+        </update>
+    </info>
+    <element name="Player’s Handbook 2024" type="Source" source="Core" id="ID_WOTC_SOURCE_PLAYERS_HANDBOOK_2024">
+        <description>
+            <p>
+                <strong>Everything a player needs to create heroic characters for the world's greatest roleplaying game.
+                </strong>
+            </p>
+            <p>The Player's Handbook is the essential reference for every Dungeons &amp; Dragons roleplayer. It contains
+                rules for character creation and advancement, backgrounds and skills, exploration and combat, equipment,
+                spells, and much more. Use this book to create exciting characters from among the most iconic D&amp;D races
+                and classes.
+            </p>
+            <p>Dungeons &amp; Dragons immerses you in a world of adventure. Explore ancient ruins and deadly dungeons.
+                Battle monsters while searching for legendary treasures. Gain experience and power as you trek across
+                uncharted lands with your companions.
+            </p>
+            <p>The world needs heroes. Will you answer the call?</p>
+        </description>
+        <setters>
+            <set name="abbreviation">PHB24</set>
+            <set name="url">https://marketplace.dndbeyond.com/core-rules/3709000</set>
+            <set name="image">https://cdn.media.amplience.net/i/wizardsprod/players-handbook-2024-cover-physical</set>
+            <set name="errata">https://media.dndbeyond.com/compendium-images/errata/PHB-24/PHB-2024_v1.pdf</set>
+            <set name="author" abbreviation="WOTC" url="https://www.dndbeyond.com/">Wizards of the Coast</set>
+            <set name="official">true</set>
+            <set name="core">true</set>
+            <set name="release">20240917</set>
+        </setters>
+    </element>
+</elements>

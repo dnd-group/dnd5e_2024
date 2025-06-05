@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Dungeon Master's Guide 2024</name>
+        <author url="https://marketplace.dndbeyond.com/core-rules/3710000">Wizards of the Coast</author>
+        <update version="0.0.1">
+            <file name="source.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/master/core/dungeon-masters-guide/source.xml" />
+        </update>
+    </info>
+    <element name="Dungeon Master’s Guide 2024" type="Source" source="Core" id="ID_WOTC_SOURCE_DUNGEON_MASTERS_GUIDE_2024">
+        <description>
+            <p>
+                <strong>Everything a Dungeon Master needs to weave legendary stories for the world's greatest
+                    roleplaying game.
+                </strong>
+            </p>
+            <p>The Dungeon Master's Guide provides the inspiration and the guidance you need to spark your imagination
+                and create worlds of adventure for your players to explore and enjoy.
+            </p>
+            <p>Inside you'll find world-building tools, tips and tricks for creating memorable dungeons and adventures,
+                optional game rules, hundreds of classic D&amp;D magic items, and much more!
+            </p>
+        </description>
+        <setters>
+            <set name="abbreviation">DMG24</set>
+            <set name="url">https://marketplace.dndbeyond.com/core-rules/3710000</set>
+            <set name="image">https://cdn.media.amplience.net/i/wizardsprod/dungeon-masters-guide-2024-cover-physical</set>
+            <set name="errata">https://media.dndbeyond.com/compendium-images/errata/DMG-24/DMG-24_v1.pdf</set>
+            <set name="author" abbreviation="WOTC" url="https://www.dndbeyond.com/">Wizards of the Coast</set>
+            <set name="official">true</set>
+            <set name="core">true</set>
+            <set name="release">20241112</set>
+        </setters>
+    </element>
+</elements>

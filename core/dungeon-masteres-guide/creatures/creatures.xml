@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Creatures</name>
+		<description>Creatures from the Dungeon Master’s Guide 2024.</description>
+
+		<author url="https://marketplace.dndbeyond.com/core-rules/3710000">Wizards of the Coast</author>
+		<update version="0.0.1">
+			<file name="creatures.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/master/core/dungeon-masters-guide/creatures.xml" />
+		</update>
+	</info>
+
+	<element name="Giant Fly" type="Information" source="Dungeon Master’s Guide 2024" id="ID_WOTC_DMG24_INFORMATION_GIANT_FLY_STATBLOCK">
+		<compendium display="false" />
+		<description>
+			<p><i>Large Beast, Unaligned</i></p>
+			<ul class="unstyled mb">
+			<li><b>AC</b> 11</li>
+			<li><b>HP</b> 19 (3d10 + 3)</li>
+			<li><b>Speed</b> 30 ft., Fly 60 ft.</li>
+			</ul>
+			<table style="text-align:center">
+				<thead><tr><td> </td><td> </td><td>MOD</td><td>SAVE</td><td> </td><td> </td><td>MOD</td><td>SAVE</td><td> </td><td> </td><td>MOD</td><td>SAVE</td></tr></thead>
+				<tr><td>STR</td><td>14</td><td>+2</td><td>+2</td><td>DEX</td><td>13</td><td>+1</td><td>+1</td><td>CON</td><td>13</td><td>+1</td><td>+1</td></tr>
+				<tr><td>INT</td><td>2</td><td>-4</td><td>-4</td><td>WIS</td><td>10</td><td>+0</td><td>+0</td><td>CHA</td><td>3</td><td>-4</td><td>-4</td></tr>
+			</table>
+			<ul class="unstyled mb">
+				<li><b>Senses</b> Darkvision 60 ft., Passive Perception 10</li>
+				<li><b>Languages</b> —</li>
+				<li><b>CR</b> 0 (PB +2)</li>
+			</ul>
+		</description>
+	</element>
+
+	<element name="Avatar of Death" type="Information" source="Dungeon Master’s Guide 2024" id="ID_WOTC_DMG24_INFORMATION_AVATAR_OF_DEATH_STATBLOCK">
+		<compendium display="false" />
+		<description>
+			<p><i>Medium Undead, Neutral Evil</i></p>
+			<ul class="unstyled mb">
+			<li><b>AC</b> 20</li>
+			<li><b>HP</b> Half the HP maximum of its summoner</li>
+			<li><b>Speed</b> 60 ft., Fly 60 ft. (hover)</li>
+			</ul>
+			<table style="text-align:center">
+				<thead><tr><td> </td><td> </td><td>MOD</td><td>SAVE</td><td> </td><td> </td><td>MOD</td><td>SAVE</td><td> </td><td> </td><td>MOD</td><td>SAVE</td></tr></thead>
+				<tr><td>STR</td><td>16</td><td>+3</td><td>+3</td><td>DEX</td><td>16</td><td>+3</td><td>+3</td><td>CON</td><td>16</td><td>+3</td><td>+3</td></tr>
+				<tr><td>INT</td><td>16</td><td>+3</td><td>+3</td><td>WIS</td><td>16</td><td>+3</td><td>+3</td><td>CHA</td><td>16</td><td>+3</td><td>+3</td></tr>
+			</table>
+			<ul class="unstyled mb">
+				<li><b>Immunities</b> Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned, Unconscious</li>
+				<li><b>Senses</b> Truesight 60 ft., Passive Perception 13</li>
+				<li><b>Languages</b> All languages known to its summoner</li>
+				<li><b>CR</b> None (XP 0; PB equals its summoner's)</li>
+			</ul>
+			<h4 class="caption">TRAITS</h4>
+			<p><b><i>Incorporeal Movement.</i></b> The avatar can move through other creatures and objects as if they were Difficult Terrain. It takes 5 (1d10) Force damage if it ends its turn inside an object.</p>
+			<h4 class="caption">ACTIONS</h4>
+			<p><b><i>Multiattack.</i></b> The avatar makes a number of Reaping Scythe attacks equal to half the summoner's Proficiency Bonus (rounded up).</p>
+			<p><b><i>Reaping Scythe.</i></b> <i>Melee Attack Roll:</i> Automatic hit, reach 5 ft.  <i>Hit:</i> 7 (1d8 + 3) Slashing damage plus 4 (1d8) Necrotic damage.</p>
+		</description>
+	</element>
+</elements>
