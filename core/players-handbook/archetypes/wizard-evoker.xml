@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="wizard-evoker.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/master/core/players-handbook/archetypes/wizard-evoker.xml" />
+			<file name="wizard-evoker.xml" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/main/core/players-handbook/archetypes/wizard-evoker.xml" />
 		</update>
 	</info>
 
