@@ -4,7 +4,7 @@
 		<name>Core 2024</name>
 		<description>The content from the 2024 core rulebooks.</description>
 		<author url="https://www.dndbeyond.com/">Wizards of the Coast</author>
-		<update version="0.0.1">
+		<update version="0.0.2">
 			<file name="core-2024.index" url="https://raw.githubusercontent.com/dnd-group/dnd5e_2024/refs/heads/main/core-2024.index" />
 		</update>
 	</info>
